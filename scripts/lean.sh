@@ -40,7 +40,7 @@ git clone --depth=1 https://github.com/Lienol/openwrt-package
 # git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 
 # Add luci-app-onliner (need luci-app-nlbwmon)
-git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
+# git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
 # Add luci-app-adguardhome
 # svn co https://github.com/Lienol/openwrt/trunk/package/diy/luci-app-adguardhome
